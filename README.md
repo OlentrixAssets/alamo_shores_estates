@@ -21,6 +21,19 @@ Doors are synced, so if your buddy leaves the closet open, everyone knows.
 /tp -146.93, 3647.24, 39.50   (the drain)
 ```
 
+## Preview
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
+![](images/6.png)
+![](images/7.png)
+![](images/8.png)
+![](images/9.png)
+![](images/10.png)
+![](images/11.png)
+
 ## Download
 **GitHub:** https://github.com/OlentrixAssets/alamo_shores_estates
 
