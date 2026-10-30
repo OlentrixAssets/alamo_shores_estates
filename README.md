@@ -53,6 +53,9 @@ Depending on the map, we can make a compatibility version, but only if you provi
 /tp 73.40, 3612.00, 40.10
 ```
 
+## License
+Free to use and edit on your own server. No resale, re-uploading, or sharing.
+
 Remember, wipe your feet, don't park on the lawn, and for the love of everything holy, stop asking why your map isn't working when you forgot to ensure the resource.
 
 Good day, you magnificent deviants.
