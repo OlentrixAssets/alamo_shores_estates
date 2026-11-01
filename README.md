@@ -5,7 +5,7 @@ Welcome to Alamo Shores Estates.
 Eighteen trailers, a questionable amount of lawn, and a secret tunnel, sitting in Sandy Shores by the water.
 
 ## Features
-- 18 furnished trailers, lived in, not dirty
+- 18 trailers, lived in, not dirty, or empty if you'd rather decorate them yourself
 - Gated entrance with a gatehouse and monument sign
 - Yards, driveways, bins, and a little rec area
 - Creek with a footbridge
@@ -35,7 +35,11 @@ Doors are synced, so if your buddy leaves the closet open, everyone knows.
 ![](images/11.png)
 
 ## Download
-**GitHub:** https://github.com/OlentrixAssets/alamo_shores_estates
+Two flavors, pick one:
+- **Furnished:** `olentrix_alamo_shores_estates_v1.0.0.zip`, move-in ready
+- **Unfurnished:** `olentrix_alamo_shores_estates_unfurnished_v1.0.0.zip`, kitchens, toilets, sinks and the secret tunnel, everything else is on you
+
+Both are on the **[Releases](https://github.com/OlentrixAssets/alamo_shores_estates/releases)** page. Only run one, they're the same map and will fight.
 
 ## Installation
 It's literally like every other FiveM map resource. Drop it into your standalone resources folder, add `ensure olentrix_alamo_shores_estates` to your server.cfg, and restart your server.
