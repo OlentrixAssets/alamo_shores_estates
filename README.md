@@ -36,13 +36,13 @@ Doors are synced, so if your buddy leaves the closet open, everyone knows.
 
 ## Download
 Two flavors, pick one:
-- **Furnished:** `olentrix_alamo_shores_estates_v1.0.0.zip`, move-in ready
-- **Unfurnished:** `olentrix_alamo_shores_estates_unfurnished_v1.0.0.zip`, kitchens, toilets, sinks and the secret tunnel, everything else is on you
+- **Furnished:** [olentrix_alamo_shores_estates_v1.0.0.zip](https://github.com/OlentrixAssets/alamo_shores_estates/releases/download/v1.0.0/olentrix_alamo_shores_estates_v1.0.0.zip), move-in ready
+- **Unfurnished:** [olentrix_alamo_shores_estates_unfurnished_v1.0.0.zip](https://github.com/OlentrixAssets/alamo_shores_estates/releases/download/v1.0.0/olentrix_alamo_shores_estates_unfurnished_v1.0.0.zip), kitchens, toilets, sinks and the secret tunnel, everything else is on you
 
-Both are on the **[Releases](https://github.com/OlentrixAssets/alamo_shores_estates/releases)** page. Only run one, they're the same map and will fight.
+Or hit **Code → Download ZIP** to grab both, each in its own folder. Only run one, they're the same map and will fight.
 
 ## Installation
-It's literally like every other FiveM map resource. Drop it into your standalone resources folder, add `ensure olentrix_alamo_shores_estates` to your server.cfg, and restart your server.
+It's literally like every other FiveM map resource. Drop the folder you picked into your standalone resources folder, add `ensure olentrix_alamo_shores_estates` (or `ensure olentrix_alamo_shores_estates_unfurnished`) to your server.cfg, and restart your server.
 
 Congratulations, you now own eighteen trailers and a questionable amount of lawn.
 
